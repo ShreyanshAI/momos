@@ -1,0 +1,352 @@
+{
+ "cats": [
+  "Regular Momos",
+  "Premium Momos",
+  "Kurkure Momos",
+  "Aata Momos",
+  "Café Snacks"
+ ],
+ "items": [
+  {
+   "v": 1,
+   "o": 0,
+   "id": 1,
+   "n": "Regular Veg Momos",
+   "c": "Regular Momos",
+   "z": [
+    [
+     "8 pcs",
+     30
+    ],
+    [
+     "14 pcs",
+     50
+    ]
+   ],
+   "t": "#ecd3a3",
+   "k": "steam",
+   "f": "veg",
+   "x": 1,
+   "d": "Classic veg momos."
+  },
+  {
+   "v": 1,
+   "o": 0,
+   "id": 2,
+   "n": "Regular Cheese Corn Momos",
+   "c": "Regular Momos",
+   "z": [
+    [
+     "8 pcs",
+     50
+    ]
+   ],
+   "t": "#f1dfa8",
+   "k": "steam",
+   "f": "cc",
+   "x": 1,
+   "d": "Cheese and corn filling."
+  },
+  {
+   "v": 1,
+   "o": 0,
+   "id": 3,
+   "n": "Regular Paneer Momos",
+   "c": "Regular Momos",
+   "z": [
+    [
+     "8 pcs",
+     50
+    ]
+   ],
+   "t": "#efdcb4",
+   "k": "steam",
+   "f": "paneer",
+   "x": 1,
+   "d": "Paneer filling."
+  },
+  {
+   "v": 1,
+   "o": 0,
+   "id": 4,
+   "n": "Veg Momos",
+   "c": "Premium Momos",
+   "z": [
+    [
+     "6 pcs",
+     60
+    ]
+   ],
+   "t": "#ecd3a3",
+   "k": "steam",
+   "f": "veg",
+   "d": "Premium veg momos."
+  },
+  {
+   "v": 1,
+   "o": 0,
+   "id": 5,
+   "n": "Veg Jumbo Momos",
+   "c": "Premium Momos",
+   "z": [
+    [
+     "6 pcs",
+     70
+    ]
+   ],
+   "t": "#ecd3a3",
+   "k": "steam",
+   "f": "veg",
+   "x": 1,
+   "d": "Jumbo-sized veg momos."
+  },
+  {
+   "v": 1,
+   "o": 0,
+   "id": 6,
+   "n": "Paneer Momos",
+   "c": "Premium Momos",
+   "z": [
+    [
+     "8 pcs",
+     70
+    ]
+   ],
+   "t": "#efdcb4",
+   "k": "steam",
+   "f": "paneer",
+   "d": "Premium paneer momos."
+  },
+  {
+   "v": 1,
+   "o": 0,
+   "id": 7,
+   "n": "Cheese Momos",
+   "c": "Premium Momos",
+   "z": [
+    [
+     "8 pcs",
+     80
+    ]
+   ],
+   "t": "#f3e2b0",
+   "k": "steam",
+   "f": "cc",
+   "x": 1,
+   "d": "Cheese-filled momos."
+  },
+  {
+   "v": 1,
+   "o": 0,
+   "id": 8,
+   "n": "Cheese Corn Momos",
+   "c": "Premium Momos",
+   "z": [
+    [
+     "6 pcs",
+     70
+    ]
+   ],
+   "t": "#f1dfa8",
+   "k": "steam",
+   "f": "cc",
+   "d": "Premium cheese corn momos."
+  },
+  {
+   "v": 1,
+   "o": 0,
+   "id": 9,
+   "n": "Veg Kurkure Momos",
+   "c": "Kurkure Momos",
+   "z": [
+    [
+     "6 pcs",
+     70
+    ]
+   ],
+   "t": "#d4902f",
+   "k": "kur",
+   "f": "veg",
+   "x": 1,
+   "d": "Crispy kurkure-coated veg momos."
+  },
+  {
+   "v": 1,
+   "o": 0,
+   "id": 10,
+   "n": "Cheese Corn Kurkure Momos",
+   "c": "Kurkure Momos",
+   "z": [
+    [
+     "6 pcs",
+     80
+    ]
+   ],
+   "t": "#d79a3a",
+   "k": "kur",
+   "f": "cc",
+   "d": "Crispy kurkure momos, cheese corn filling."
+  },
+  {
+   "v": 1,
+   "o": 0,
+   "id": 11,
+   "n": "Paneer Kurkure Momos",
+   "c": "Kurkure Momos",
+   "z": [
+    [
+     "6 pcs",
+     80
+    ]
+   ],
+   "t": "#d4902f",
+   "k": "kur",
+   "f": "paneer",
+   "d": "Crispy kurkure momos, paneer filling."
+  },
+  {
+   "v": 1,
+   "o": 0,
+   "id": 12,
+   "n": "Paneer Tadka Kurkure Momos",
+   "c": "Kurkure Momos",
+   "z": [
+    [
+     "6 pcs",
+     80
+    ]
+   ],
+   "t": "#c9822a",
+   "k": "kur",
+   "f": "paneer",
+   "d": "Crispy kurkure momos, paneer tadka."
+  },
+  {
+   "v": 1,
+   "o": 0,
+   "id": 13,
+   "n": "Pizza Kurkure Momos",
+   "c": "Kurkure Momos",
+   "z": [
+    [
+     "6 pcs",
+     90
+    ],
+    [
+     "9 pcs",
+     120
+    ]
+   ],
+   "t": "#cf8a2c",
+   "k": "kur",
+   "f": "veg",
+   "d": "Pizza-style crispy kurkure momos."
+  },
+  {
+   "v": 1,
+   "o": 0,
+   "id": 14,
+   "n": "Aata Veg Momos",
+   "c": "Aata Momos",
+   "z": [
+    [
+     "6 pcs",
+     60
+    ]
+   ],
+   "t": "#c9a77a",
+   "k": "steam",
+   "f": "veg",
+   "x": 1,
+   "d": "Made with aata dough."
+  },
+  {
+   "v": 1,
+   "o": 0,
+   "id": 15,
+   "n": "Aata Paneer Momos",
+   "c": "Aata Momos",
+   "z": [
+    [
+     "6 pcs",
+     70
+    ]
+   ],
+   "t": "#c9a77a",
+   "k": "steam",
+   "f": "paneer",
+   "d": "Aata dough, paneer filling."
+  },
+  {
+   "v": 1,
+   "o": 0,
+   "id": 16,
+   "n": "Spring Roll Noodles",
+   "c": "Café Snacks",
+   "m": 0,
+   "z": [
+    [
+     "2 pcs",
+     70
+    ]
+   ],
+   "d": "Spring roll noodles."
+  },
+  {
+   "v": 1,
+   "o": 0,
+   "id": 17,
+   "n": "Cheese Cigar Roll",
+   "c": "Café Snacks",
+   "m": 0,
+   "z": [
+    [
+     "2 pcs",
+     70
+    ],
+    [
+     "3 pcs",
+     100
+    ]
+   ],
+   "d": "Cheese cigar rolls."
+  },
+  {
+   "v": 1,
+   "o": 0,
+   "id": 18,
+   "n": "French Fries",
+   "c": "Café Snacks",
+   "m": 0,
+   "z": [
+    [
+     "Small",
+     40
+    ],
+    [
+     "Large",
+     70
+    ]
+   ],
+   "d": "Crispy french fries."
+  }
+ ],
+ "hours": "",
+ "phone": "+91 70739 02530",
+ "wa": "917073902530",
+ "locs": [
+  [
+   "Near Shivaji Park, R.C. Vyas Colony, Bhilwara",
+   "https://maps.google.com/?q=Kalu%20Ji%20Momos%20Shivaji%20Park%20R.C.%20Vyas%20Colony%20Bhilwara"
+  ],
+  [
+   "Kumbha Circle, Azad Nagar, Bhilwara",
+   "https://maps.google.com/?q=Kalu%20Ji%20Momos%20Kumbha%20Circle%20Azad%20Nagar%20Bhilwara"
+  ]
+ ],
+ "owners": [
+  "Vijay Singh",
+  "Kamal Singh",
+  "Jyoti"
+ ]
+}
